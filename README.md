@@ -10,4 +10,3 @@ Statistics, python libraries used (Pandas, Numpy, Random, Seaborn, Matplotlib).
 The business side of things
 Combine optimal strategies for gameplay, Casinos on the east coast and is highly scalable for future prospects. 
 1
-2
